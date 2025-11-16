@@ -1,163 +1,241 @@
-<h1 align="center">🚀 Ahmad Faour | AI Solutions Architect & Full-Stack Engineer</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-faour-052b20168/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ahmadfaour928@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://ahmadsalehfaour.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/AhmadFaour9?tab=repositories"><img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+# 🚀 Ahmad Faour | AI Solutions Architect & Full-Stack Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=MLOps+Specialist+%7C+Generative+AI+%7C+Cloud-Native+Solutions+%7C+Production-Grade+Deployments;5%2B+Years+Engineering+Experience+%7C+Top+2%25+IT+Graduate+%7C+AWS+Certified+LLM+Expert;Building+Intelligent+Systems+That+Learn%2C+Adapt%2C+and+Evolve">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-faour-052b20168/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadfaour928@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmadsalehfaour.github.io/Portfolio/)
+[![Projects](https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadFaour9?tab=repositories)
+
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=MLOps+Specialist+%7C+Generative+AI+Expert;Cloud-Native+Solutions+Architect;5%2B+Years+Building+Intelligent+Systems;Top+2%25+IT+Graduate+%7C+AWS+Certified;Transforming+Ideas+into+Production-Ready+AI" alt="Typing SVG" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const ahmad = {
+  location: "Riyadh, Saudi Arabia 🇸🇦",
+  role: "AI Solutions Architect & Full-Stack Engineer",
+  experience: "5+ years",
+  passions: ["Machine Learning", "Cloud Architecture", "Open Source"],
+  currentFocus: "Building scalable LLM applications",
+  lifePhilosophy: "Code that learns, systems that evolve 🧠"
+};
+```
 
 ---
 
 ## 🔧 Technical Arsenal
 
-### 🤖 AI/ML Stack
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48">
-      <br><strong>PyTorch</strong>
-      <br>LLM Fine-Tuning
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48">
-      <br><strong>TensorFlow</strong>
-      <br>Production Models
-    </td>
-    <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48">
-      <br><strong>Keras</strong>
-      <br>Rapid Prototyping
-    </td>
-    <td align="center" width="110">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48">
-      <br><strong>HuggingFace</strong>
-      <br>Transformers
-    </td>
-  </tr>
-</table>
-
-### ☁️ Cloud Infrastructure
-```bash
-AWS Stack: SageMaker | Lambda | EC2 | S3 | IAM 
-GCP Stack: Vertex AI | Cloud Functions | BigQuery | GKE
-MLOps Tools: MLflow | Kubeflow | Airflow | TFX
-Containerization: Docker | Kubernetes | Helm
-```
-
-### 💻 Full-Stack Development
-```bash
-Frontend: React (Next.js) | Redux | TypeScript | Three.js
-Backend: Node.js | Django | Flask | ASP.NET Core
-Databases: PostgreSQL | MongoDB | FaunaDB | Redis
-DevOps: GitHub Actions | CircleCI | Jenkins | Terraform
-```
-
----
-
-## 🏆 Flagship Projects
-
-| Project | Tech Stack | Key Achievements | Live Demo |
-|---------|------------|------------------|-----------|
-| **SpeechGuardian** | Whisper v3, MARBERTv2, WebRTC | 93% accuracy across 5 Arabic dialects | 🌐 Demo |
-| **MediCheck AI** | GANs, CRNN, OpenCV | Reduced prescription errors by 40% in clinical trials | 📱 Preview |
-| **TalentForge** | BERT, KNN, ElasticSearch | 98% match accuracy on Kaggle datasets | 📊 Dashboard |
-
----
-
-## 💼 Professional Journey
-
-**🧠 AI Engineer** @ Reality AI Lab (Remote)  
-2023 - Present  
-▪ Architected LLM pipeline reducing inference costs by 35%  
-▪ Implemented CI/CD for ML models with 99.8% deployment success rate  
-▪ Tools: PyTorch, ONNX, SageMaker, LangChain
-
-**🛠️ Lead AI Developer** @ NVSSoft (Riyadh)  
-2022 - 2023  
-▪ Built Arabic NLP toolkit with 87% F1-score  
-▪ Automated MLOps, reduced model iteration time by 60%  
-▪ Tools: TensorFlow, Vertex AI, Kubernetes
-
-**📈 Data Scientist Lead** @ Darrebni (Remote)  
-2021 - 2022  
-▪ Predictive analytics system increased ROI by 22%  
-▪ Tools: Scikit-learn, PySpark, Tableau
-
----
-
-## 🎓 Academic Excellence
-
-**B.Sc. in IT Engineering**  
-University of Kalamoon — Graduated **2<sup>nd</sup> in Class**  
-**Thesis:** *Optimizing Arabic NLP Models Using Hybrid Architecture*  
-▪ Published in IEEE ArabicNLP 2023  
-▪ Developed a novel attention mechanism that improved accuracy by 18%
-
-**Certifications**  
-- AWS Certified Machine Learning - Specialty  
-- Google Professional Data Engineer  
-- DeepLearning.AI NLP Specialization  
-
----
-
-## 📊 GitHub Analytics
+### 🤖 AI/ML Ecosystem
 
 <div align="center">
 
-  <!-- Contribution Activity Chart -->
-  <img src="https://pfst.cf2.poecdn.net/base/image/c43039c0f240317054e0c42382c652e85e2cbb004a3c6364d0d64df3eb4cc805?pmaid=343433332" alt="GitHub Activity Graph" width="100%" style="margin-bottom: 20px;" />
+| Category | Technologies |
+|----------|-------------|
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
+| **NLP & LLMs** | ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square) ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square) |
 
-  <!-- Stats Cards Row -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&theme=vision-friendly-dark" alt="Ahmad's GitHub Stats" />
+</div>
 
+### ☁️ Cloud & Infrastructure
 
+```yaml
+AWS:
+  Compute: [EC2, Lambda, ECS, Fargate]
+  AI/ML: [SageMaker, Bedrock, Rekognition]
+  Storage: [S3, EFS, DynamoDB]
+  
+GCP:
+  AI/ML: [Vertex AI, AutoML]
+  Data: [BigQuery, Dataflow]
+  Compute: [GKE, Cloud Run, Cloud Functions]
 
-  <img src="https://streak-stats.demolab.com/?user=AhmadFaour9&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmad's GitHub Streak" />
+DevOps:
+  Containerization: [Docker, Kubernetes, Helm]
+  CI/CD: [GitHub Actions, CircleCI, Jenkins, ArgoCD]
+  IaC: [Terraform, CloudFormation, Pulumi]
+  Monitoring: [Prometheus, Grafana, DataDog, ELK Stack]
+```
 
-  </div>
+### 💻 Full-Stack Development
 
-  <!-- Top Languages Chart -->
-  <img src="https://pfst.cf2.poecdn.net/base/image/6b89bb0a72910ef485554e541942dfd0fbb8be2a1f29eb1172b032576b722d50?pmaid=343433383" alt="Top Languages Chart" width="100%" />
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 Philosophical Approach
+## 🏆 Flagship Projects
+
+<details open>
+<summary><b>🎙️ SpeechGuardian - Arabic Speech Analysis Platform</b></summary>
+
+**Tech Stack:** Whisper v3, MARBERTv2, WebRTC, FastAPI, React
+
+- 🎯 Achieved **93% accuracy** across 5 Arabic dialects
+- 🚀 Real-time speech processing with <500ms latency
+- 📊 Deployed on AWS Lambda with auto-scaling
+- 🔗 [Live Demo](#) | [Documentation](#)
+
+</details>
+
+<details>
+<summary><b>💊 MediCheck AI - Prescription Verification System</b></summary>
+
+**Tech Stack:** GANs, CRNN, OpenCV, TensorFlow, Django
+
+- 🏥 Reduced prescription errors by **40%** in clinical trials
+- 🤖 OCR accuracy of 97% on handwritten prescriptions
+- ⚡ Processed 10K+ prescriptions in pilot program
+- 🔗 [Case Study](#) | [API Docs](#)
+
+</details>
+
+<details>
+<summary><b>🎯 TalentForge - AI-Powered Recruitment Platform</b></summary>
+
+**Tech Stack:** BERT, KNN, ElasticSearch, React, Node.js
+
+- 🎓 **98% match accuracy** on Kaggle HR datasets
+- 💼 Reduced hiring time by 60% for partner companies
+- 🌐 Supports 15+ job categories and skill taxonomies
+- 🔗 [Dashboard](#) | [GitHub](#)
+
+</details>
+
+---
+
+## 💼 Professional Journey
+
+### 🧠 AI Engineer @ Reality AI Lab
+**Remote | 2023 - Present**
+
+- 🚀 Architected LLM inference pipeline reducing costs by **35%** using quantization and caching
+- 📦 Implemented CI/CD for ML models achieving **99.8%** deployment success rate
+- 🔧 Built RAG system processing 1M+ documents with sub-second retrieval
+- **Stack:** PyTorch, ONNX, SageMaker, LangChain, Docker, Kubernetes
+
+### 🛠️ Lead AI Developer @ NVSSoft
+**Riyadh, Saudi Arabia | 2022 - 2023**
+
+- 🇸🇦 Developed Arabic NLP toolkit with **87% F1-score** on sentiment analysis
+- ⚙️ Automated MLOps workflows reducing model iteration time by **60%**
+- 👥 Led team of 5 engineers on enterprise AI projects
+- **Stack:** TensorFlow, Vertex AI, Kubernetes, FastAPI
+
+### 📈 Data Scientist Lead @ Darrebni
+**Remote | 2021 - 2022**
+
+- 💰 Built predictive analytics system increasing client ROI by **22%**
+- 📊 Created real-time dashboards processing 100K+ daily events
+- **Stack:** Scikit-learn, PySpark, Tableau, PostgreSQL
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎓 B.Sc. in IT Engineering
+**University of Kalamoon** | Graduated **2nd in Class** | GPA: 3.8/4.0
+
+**Thesis:** *Optimizing Arabic NLP Models Using Hybrid Transformer Architecture*
+- 📝 Published in IEEE ArabicNLP 2023 Conference
+- 🏆 Developed novel attention mechanism improving accuracy by **18%**
+- 🔬 Cited by 12+ research papers
+
+### 📜 Professional Certifications
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| AWS Certified Machine Learning - Specialty | Amazon Web Services | 2023 |
+| Google Professional Data Engineer | Google Cloud | 2023 |
+| DeepLearning.AI NLP Specialization | Coursera | 2022 |
+| Certified Kubernetes Administrator (CKA) | CNCF | 2024 |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadFaour9&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadFaour9&theme=tokyo-night&hide_border=true&area=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFaour9&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmadFaour9&theme=tokyonight" />
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
 
 ```python
 class AIEngineer:
-    def __init__(self):
-        self.motto = "Build systems that learn, not just execute"
-
-    def develop(self):
-        while True:
-            self.research()
-            self.optimize()
-            self.deploy()
-
-    def research(self):
-        explore(arxiv_papers=True)
-        experiment(novel_architectures=True)
-
-    def optimize(self):
-        apply(quantization=True)
-        implement(distributed_training=True)
-
-    def deploy(self):
-        containerize(with='Docker')
-        monitor(using='Prometheus+Grafana')
+    """
+    Building intelligent systems that learn, adapt, and evolve.
+    """
+    def __init__(self, name="Ahmad Faour"):
+        self.name = name
+        self.motto = "Code with purpose, deploy with confidence"
+        self.principles = [
+            "Research-driven development",
+            "Production-first mindset", 
+            "Continuous optimization",
+            "Open-source contribution"
+        ]
+    
+    def daily_routine(self):
+        while self.is_awake:
+            self.read_papers()
+            self.experiment_with_models()
+            self.optimize_architecture()
+            self.deploy_to_production()
+            self.monitor_and_improve()
+    
+    def collaborate(self):
+        return "Always open to interesting projects! 🤝"
 ```
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmadFaour9&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet">
-  <br>
-  <em>"Let's connect to build the next generation of intelligent systems!"</em> 📡
-</p>
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative AI projects or discuss the latest in machine learning!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmad-faour-052b20168/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadfaour928@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmadsalehfaour.github.io/Portfolio/)
+
+<img src="https://komarev.com/ghpvc/?username=AhmadFaour9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
